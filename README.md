@@ -70,6 +70,8 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - Swift Book -> https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 - Swift Standart Library -> https://developer.apple.com/documentation/swift/swift-standard-library
 
+### Articles
+
 ### Books
 
 - Advanced Swift: Updated for Swift 5.6 -> https://www.amazon.com.tr/Advanced-Swift-Updated-5-6/dp/B09VFTFB6C/ref=sr_1_1?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BJJEJVBESO81&keywords=advanced+swift&qid=1704479328&s=books&sprefix=advanced+swift%2Cstripbooks%2C139&sr=1-1
@@ -81,6 +83,8 @@ This repo contains iOS development resources like documents, books, blogs etc.
 
 - https://developer.apple.com/documentation/swiftui/
 
+### Articles
+
 ### Repos
 
 ## UIKit
@@ -88,5 +92,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 ### Docs
 
 - https://developer.apple.com/documentation/uikit/
+
+### Articles
 
 ### Repos
