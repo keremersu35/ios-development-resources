@@ -3,7 +3,7 @@
 This repo contains iOS development resources like companies' blog/medium pages, useful GitHub repositories or anything that useful for the improvement on iOS.
 
 * [General](#general)
-  * [Companies' Blog/Medium Pages](#company-blog)
+  * [Companies Blog/Medium Pages](#company-blog)
 * [Swift](#swift)
   * [Docs](#docs)
   * [Books](#books)
@@ -13,7 +13,7 @@ This repo contains iOS development resources like companies' blog/medium pages, 
 ## General
 - https://developer.apple.com/documentation/
 
-### Companies' Blog/Medium Pages
+### Companies Blog/Medium Pages
 
 - https://medium.com/trendyol-tech/mobile/home
 - https://medium.com/adessoturkey/mobiledevelopment/home
