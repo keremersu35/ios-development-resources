@@ -6,7 +6,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
   * [Courses - Lectures](#courses-lectures)
   * [Blogs](#blogs)
     * [Blog Websites](#blog-websites)
-    * [Companies Blogs](#companies-blogs) 
+    * [Company Blogs](#company-blogs) 
   * [Useful Tools](#useful-tools)
 * [Swift](#swift)
   * [Docs](#docs)
@@ -36,7 +36,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://www.hackingwithswift.com/read
 - https://www.swift.org/
 
-#### Companies Blogs
+#### Company Blogs
 
 - https://medium.com/trendyol-tech/mobile/home
 - https://medium.com/adessoturkey/mobiledevelopment/home
