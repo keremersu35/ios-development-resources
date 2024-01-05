@@ -1,6 +1,6 @@
 # ios-development-resources
 
-This repo contains iOS development resources like companies' blog/medium pages, useful GitHub repositories or anything that useful for the improvement on iOS.
+This repo contains iOS development resources like documents, books, blogs, medium articles etc.
 
 * [General](#general)
   * [Companies Blog/Medium Pages](#companies-blog/medium-pages)
