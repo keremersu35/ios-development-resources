@@ -1,19 +1,42 @@
 # ios-development-resources
 
-This repo contains iOS development resources like documents, books, blogs, medium articles etc.
+This repo contains iOS development resources like documents, books, blogs etc.
 
 * [General](#general)
-  * [Companies Blog/Medium Pages](#companies-blog/medium-pages)
+  * [Courses - Lectures](#courses-lectures)
+  * [Blogs](#blogs)
+    * [Blog Websites](#blog-websites)
+    * [Companies Blogs](#companies-blogs) 
+  * [Useful Tools](#useful-tools)
 * [Swift](#swift)
   * [Docs](#docs)
   * [Books](#books)
 * [SwiftUI](#swiftui)
+  * [Docs](#docs)
+  * [Repos](#repos)
 * [UIKit](#uikit)
+  * [Docs](#docs)
+  * [Repos](#repos)
 
 ## General
+
 - https://developer.apple.com/documentation/
 
-### Companies Blog/Medium Pages
+### Courses - Lectures
+
+- https://developer.apple.com/tutorials/app-dev-training/
+- https://cs193p.sites.stanford.edu/2023
+- https://www.udemy.com/course/ios-13-app-development-bootcamp/
+
+### Blogs
+
+#### Blog Websites
+
+- https://www.kodeco.com/ios/articles
+- https://www.hackingwithswift.com/read
+- https://www.swift.org/
+
+#### Companies Blogs
 
 - https://medium.com/trendyol-tech/mobile/home
 - https://medium.com/adessoturkey/mobiledevelopment/home
@@ -29,6 +52,11 @@ This repo contains iOS development resources like documents, books, blogs, mediu
 - https://medium.com/tinder/mobile/home
 - https://www.uber.com/en-TR/blog/engineering/mobile/
 
+### Useful Tools
+
+- App Icon Generator -> https://www.appicon.co/
+- QuickType: Model Generator -> https://app.quicktype.io/
+
 ## Swift
 
 ### Docs
@@ -43,4 +71,16 @@ This repo contains iOS development resources like documents, books, blogs, mediu
 
 ## SwiftUI
 
+### Docs
+
+- https://developer.apple.com/documentation/swiftui/
+
+### Repos
+
 ## UIKit
+
+### Docs
+
+- https://developer.apple.com/documentation/uikit/
+
+### Repos
