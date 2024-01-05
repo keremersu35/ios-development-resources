@@ -3,30 +3,30 @@
 This repo contains iOS development resources like documents, books, blogs etc.
 
 * [General](#general)
-  * [Courses - Lectures](#courses-lectures)
+  * [Docs](#docs)
   * [Blogs](#blogs)
     * [Blog Websites](#blog-websites)
     * [Company Blogs](#company-blogs) 
-  * [Useful Tools](#useful-tools)
+  * [Courses - Lectures](#courses-lectures)
+  * [Tools](#tools)
 * [Swift](#swift)
   * [Docs](#docs)
+  * [Articles](#articles)
   * [Books](#books)
 * [SwiftUI](#swiftui)
   * [Docs](#docs)
+  * [Articles](#articles)
   * [Repos](#repos)
 * [UIKit](#uikit)
   * [Docs](#docs)
+  * [Articles](#articles)
   * [Repos](#repos)
 
 ## General
 
+### Docs
+
 - https://developer.apple.com/documentation/
-
-### Courses - Lectures
-
-- https://developer.apple.com/tutorials/app-dev-training/
-- https://cs193p.sites.stanford.edu/2023
-- https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 ### Blogs
 
@@ -51,6 +51,12 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://developers.soundcloud.com/blog/category/mobile
 - https://medium.com/tinder/mobile/home
 - https://www.uber.com/en-TR/blog/engineering/mobile/
+
+### Courses - Lectures
+
+- https://developer.apple.com/tutorials/app-dev-training/
+- https://cs193p.sites.stanford.edu/2023
+- https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 ### Useful Tools
 
