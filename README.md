@@ -26,7 +26,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 
 ### Docs
 
-- https://developer.apple.com/documentation/
+- Apple Official Documentation -> https://developer.apple.com/documentation/
 
 ### Blogs
 
@@ -57,9 +57,25 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://developer.apple.com/tutorials/app-dev-training/
 - https://cs193p.sites.stanford.edu/2023
 - https://www.udemy.com/course/ios-13-app-development-bootcamp/
+- https://www.youtube.com/@seanallen/videos
+- https://www.youtube.com/@iOSAcademy/videos
+- https://www.coursera.org/learn/programming-fundamentals-swift?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1137078&utm_content=b2c
+- https://www.codecademy.com/catalog/language/swift
+- https://www.programiz.com/swift-programming
 
 ### Useful Tools
 
+- Alamofire -> https://github.com/Alamofire/Alamofire
+- Tuist -> https://tuist.io/
+- SnapKit -> https://github.com/SnapKit/SnapKit
+- Netfox -> https://github.com/kasketis/netfox
+- Kingfisher -> https://github.com/onevcat/Kingfisher
+- SDWebImage -> https://github.com/SDWebImage/SDWebImage
+- SwiftLint -> https://github.com/realm/SwiftLint
+- Lottie -> https://github.com/airbnb/lottie-ios
+- RxSwift -> https://github.com/ReactiveX/RxSwift
+- IQKeyboardManager -> https://github.com/hackiftekhar/IQKeyboardManager
+- ZLPhotoBrowser -> https://github.com/longitachi/ZLPhotoBrowser
 - App Icon Generator -> https://www.appicon.co/
 - QuickType: Model Generator -> https://app.quicktype.io/
 
@@ -69,6 +85,9 @@ This repo contains iOS development resources like documents, books, blogs etc.
 
 - Swift Book -> https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 - Swift Standart Library -> https://developer.apple.com/documentation/swift/swift-standard-library
+- https://www.geeksforgeeks.org/swift-tutorial/?ref=outind
+- https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/
+- https://www.hackingwithswift.com/read/0/overview
 
 ### Articles
 
