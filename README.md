@@ -88,6 +88,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://www.geeksforgeeks.org/swift-tutorial/?ref=outind
 - https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/
 - https://www.hackingwithswift.com/read/0/overview
+- https://github.com/pointfreeco/swift-composable-architecture
 
 ### Articles
 
@@ -104,7 +105,14 @@ This repo contains iOS development resources like documents, books, blogs etc.
 
 ### Articles
 
+- https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
+
 ### Repos
+
+- https://github.com/ivanvorobei/SwiftUI
+- https://github.com/nalexn/clean-architecture-swiftui
+- https://github.com/Dimillian/IceCubesApp
+- https://medium.com/@adha_fajri/clean-architecture-in-swiftui-b184e0e687f8
 
 ## UIKit
 
@@ -114,4 +122,11 @@ This repo contains iOS development resources like documents, books, blogs etc.
 
 ### Articles
 
+- https://medium.com/trendyol-tech/revamping-trendyols-ios-app-a-modularization-success-story-a6c1d2c4188b
+- https://tuist.io/blog/2023/09/08/trendyol-and-tuist/
+
 ### Repos
+
+- https://github.com/amitshekhariitbhu/iOS-Viper-Architecture
+- https://github.com/kudoleh/iOS-Modular-Architecture
+- https://github.com/khoren93/SwiftHub
