@@ -69,7 +69,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://www.codecademy.com/catalog/language/swift
 - https://www.programiz.com/swift-programming
 
-### Useful Tools
+### Tools
 
 - Alamofire -> https://github.com/Alamofire/Alamofire
 - Tuist -> https://tuist.io/
