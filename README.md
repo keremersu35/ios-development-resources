@@ -2,11 +2,13 @@
 
 This repo contains iOS development resources like documents, books, blogs etc.
 
+## Table of Contents
 * [General](#general)
   * [Docs](#docs)
   * [Blogs](#blogs)
     * [Blog Websites](#blog-websites)
-    * [Company Blogs](#company-blogs) 
+    * [Company Blogs](#company-blogs)
+  * [Articles](#articles)
   * [Courses - Lectures](#courses-lectures)
   * [Tools](#tools)
 * [Swift](#swift)
@@ -51,6 +53,10 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://developers.soundcloud.com/blog/category/mobile
 - https://medium.com/tinder/mobile/home
 - https://www.uber.com/en-TR/blog/engineering/mobile/
+
+### Articles
+
+- https://medium.com/airbnb-engineering/flexible-continuous-integration-for-ios-4ab33ea4072f
 
 ### Courses - Lectures
 
