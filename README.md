@@ -37,6 +37,8 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://www.kodeco.com/ios/articles
 - https://www.hackingwithswift.com/read
 - https://www.swift.org/
+- https://swiftrocks.com/
+- https://www.runway.team/tags/ios
 
 #### Company Blogs
 
@@ -84,6 +86,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - ZLPhotoBrowser -> https://github.com/longitachi/ZLPhotoBrowser
 - App Icon Generator -> https://www.appicon.co/
 - QuickType: Model Generator -> https://app.quicktype.io/
+- SPM to XCFramework -> https://github.com/mstfy/spm-to-xcframework
 
 ## Swift
 
@@ -112,6 +115,8 @@ This repo contains iOS development resources like documents, books, blogs etc.
 ### Articles
 
 - https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
+- https://azamsharp.medium.com/building-large-scale-apps-with-swiftui-a-guide-to-modular-architecture-9c967be13001
+- https://betterprogramming.pub/the-ultimate-guide-to-building-swiftdata-applications-d47247030dbb
 
 ### Repos
 
@@ -119,6 +124,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://github.com/nalexn/clean-architecture-swiftui
 - https://github.com/Dimillian/IceCubesApp
 - https://medium.com/@adha_fajri/clean-architecture-in-swiftui-b184e0e687f8
+- https://github.com/ivanvorobei/SwiftUI
 
 ## UIKit
 
