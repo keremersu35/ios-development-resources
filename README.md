@@ -125,6 +125,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://github.com/Dimillian/IceCubesApp
 - https://medium.com/@adha_fajri/clean-architecture-in-swiftui-b184e0e687f8
 - https://github.com/ivanvorobei/SwiftUI
+- https://github.com/mehrankmlf/EasyCrypto
 
 ## UIKit
 
