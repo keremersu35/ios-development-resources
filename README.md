@@ -15,6 +15,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
   * [Docs](#docs)
   * [Articles](#articles)
   * [Books](#books)
+  * [Repos](#repos)
 * [SwiftUI](#swiftui)
   * [Docs](#docs)
   * [Articles](#articles)
@@ -39,6 +40,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://www.swift.org/
 - https://swiftrocks.com/
 - https://www.runway.team/tags/ios
+- https://www.pointfree.co/
 
 #### Company Blogs
 
@@ -106,6 +108,10 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - Advanced Swift: Updated for Swift 5.6 -> https://www.amazon.com.tr/Advanced-Swift-Updated-5-6/dp/B09VFTFB6C/ref=sr_1_1?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BJJEJVBESO81&keywords=advanced+swift&qid=1704479328&s=books&sprefix=advanced+swift%2Cstripbooks%2C139&sr=1-1
 - Swift in Depth -> https://www.amazon.com/Swift-Depth-Tjeerd-t-Veen/dp/1617295183
 
+### Repos
+
+- https://github.com/vincent-pradeilles/swift-tips
+
 ## SwiftUI
 
 ### Docs
@@ -143,3 +149,4 @@ This repo contains iOS development resources like documents, books, blogs etc.
 - https://github.com/amitshekhariitbhu/iOS-Viper-Architecture
 - https://github.com/kudoleh/iOS-Modular-Architecture
 - https://github.com/khoren93/SwiftHub
+- https://github.com/apple/swift-package-manager
