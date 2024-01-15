@@ -138,6 +138,7 @@ This repo contains iOS development resources like documents, books, blogs etc.
 ### Docs
 
 - https://developer.apple.com/documentation/uikit/
+- https://fuckingswiftui.com/
 
 ### Articles
 
