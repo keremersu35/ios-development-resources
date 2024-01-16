@@ -61,6 +61,9 @@ This repo contains iOS development resources like documents, books, blogs etc.
 ### Articles
 
 - https://medium.com/airbnb-engineering/flexible-continuous-integration-for-ios-4ab33ea4072f
+- https://www.kodeco.com/books/combine-asynchronous-programming-with-swift/v1.0/chapters/1-hello-combine
+- https://www.wwt.com/article/creating-a-highly-testable-networking-layer-in-combine
+- https://www.essentialdeveloper.com/articles/how-to-create-a-generic-networking-layer-in-ios-apps-refresh-tokens-combine-async-await-swiftui
 
 ### Courses - Lectures
 
